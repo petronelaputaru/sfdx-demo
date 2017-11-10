@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Clasificare Locatie --></label>
+    <name>Clasificare_Locatie__c</name>
+    <picklistValues>
+        <masterLabel>DMC</masterLabel>
+        <translation><!-- DMC --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>LKA</masterLabel>
+        <translation><!-- LKA --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>MMC</masterLabel>
+        <translation><!-- MMC --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>MXR</masterLabel>
+        <translation><!-- MXR --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>SHR</masterLabel>
+        <translation><!-- SHR --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

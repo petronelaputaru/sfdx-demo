@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Tip utilaj --></label>
+    <name>Tip_utilaj__c</name>
+    <picklistValues>
+        <masterLabel>Masina gletuit</masterLabel>
+        <translation><!-- Masina gletuit --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Masina mortare hidro</masterLabel>
+        <translation><!-- Masina mortare hidro --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Masina tencuiala</masterLabel>
+        <translation><!-- Masina tencuiala --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Pompa airless</masterLabel>
+        <translation><!-- Pompa airless --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

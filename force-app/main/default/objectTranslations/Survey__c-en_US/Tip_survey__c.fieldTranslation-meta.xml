@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Tip Survey --></label>
+    <name>Tip_survey__c</name>
+    <picklistValues>
+        <masterLabel>Census</masterLabel>
+        <translation><!-- Census --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Survey calitatea serviciilor oferite</masterLabel>
+        <translation><!-- Survey calitatea serviciilor oferite --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Survey de pret</masterLabel>
+        <translation><!-- Survey de pret --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Survey distributie numerica</masterLabel>
+        <translation><!-- Survey distributie numerica --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Survey executie produs nou</masterLabel>
+        <translation><!-- Survey executie produs nou --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Survey executie promo</masterLabel>
+        <translation><!-- Survey executie promo --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Survey mijloace fixe</masterLabel>
+        <translation><!-- Survey mijloace fixe --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Survey vizibilitate KA</masterLabel>
+        <translation><!-- Survey vizibilitate KA --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Survey vizibilitate TT</masterLabel>
+        <translation><!-- Survey vizibilitate TT --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

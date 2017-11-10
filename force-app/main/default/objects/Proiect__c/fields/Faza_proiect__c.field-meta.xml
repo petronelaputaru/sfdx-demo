@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Faza_proiect__c</fullName>
+    <externalId>false</externalId>
+    <label>Faza proiect</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Constuctie la rosu</fullName>
+                <default>false</default>
+            </value>
+            <value>
+                <fullName>Constructia la gri -Interior</fullName>
+                <default>false</default>
+            </value>
+            <value>
+                <fullName>Constructia la gri - Exterior</fullName>
+                <default>false</default>
+            </value>
+            <value>
+                <fullName>Finisaje interioare</fullName>
+                <default>false</default>
+            </value>
+            <value>
+                <fullName>Finisaje exterioare</fullName>
+                <default>false</default>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

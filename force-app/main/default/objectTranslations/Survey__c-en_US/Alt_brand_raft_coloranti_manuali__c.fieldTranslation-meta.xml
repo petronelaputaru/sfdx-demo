@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Alt brand raft coloranti manuali --></label>
+    <name>Alt_brand_raft_coloranti_manuali__c</name>
+</CustomFieldTranslation>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Status client --></label>
+    <name>Status_client__c</name>
+    <picklistValues>
+        <masterLabel>Activ</masterLabel>
+        <translation><!-- Activ --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Inactiv</masterLabel>
+        <translation><!-- Inactiv --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Prospect</masterLabel>
+        <translation><!-- Prospect --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Faza proiect --></label>
+    <name>Faza_proiect__c</name>
+    <picklistValues>
+        <masterLabel>Constructia la gri - Exterior</masterLabel>
+        <translation><!-- Constructia la gri - Exterior --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Constructia la gri -Interior</masterLabel>
+        <translation><!-- Constructia la gri -Interior --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Constuctie la rosu</masterLabel>
+        <translation><!-- Constuctie la rosu --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Finisaje exterioare</masterLabel>
+        <translation><!-- Finisaje exterioare --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Finisaje interioare</masterLabel>
+        <translation><!-- Finisaje interioare --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

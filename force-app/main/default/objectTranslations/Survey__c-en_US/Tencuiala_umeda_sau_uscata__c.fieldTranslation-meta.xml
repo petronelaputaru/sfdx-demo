@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Tencuiala (umeda sau uscata) --></label>
+    <name>Tencuiala_umeda_sau_uscata__c</name>
+</CustomFieldTranslation>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Nr Clienti Cu Comanda --></label>
+    <name>Nr_Clienti_Cu_Comanda__c</name>
+</CustomFieldTranslation>

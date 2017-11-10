@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Status contract custodie --></label>
+    <name>Status_contract_custodie__c</name>
+    <picklistValues>
+        <masterLabel>In curs de semnare la client</masterLabel>
+        <translation><!-- In curs de semnare la client --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>La agent</masterLabel>
+        <translation><!-- La agent --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Predat coordonatorului tehnic</masterLabel>
+        <translation><!-- Predat coordonatorului tehnic --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Semnat</masterLabel>
+        <translation><!-- Semnat --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

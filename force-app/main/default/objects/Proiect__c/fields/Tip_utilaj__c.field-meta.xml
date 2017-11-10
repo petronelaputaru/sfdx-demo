@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Tip_utilaj__c</fullName>
+    <externalId>false</externalId>
+    <label>Tip utilaj</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Pompa airless</fullName>
+                <default>false</default>
+            </value>
+            <value>
+                <fullName>Masina tencuiala</fullName>
+                <default>false</default>
+            </value>
+            <value>
+                <fullName>Masina gletuit</fullName>
+                <default>false</default>
+            </value>
+            <value>
+                <fullName>Masina mortare hidro</fullName>
+                <default>false</default>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

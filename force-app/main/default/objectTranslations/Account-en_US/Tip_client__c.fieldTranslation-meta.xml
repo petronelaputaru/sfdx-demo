@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Tip client --></label>
+    <name>Tip_client__c</name>
+    <picklistValues>
+        <masterLabel>PF</masterLabel>
+        <translation><!-- PF --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>PJ</masterLabel>
+        <translation><!-- PJ --></translation>
+    </picklistValues>
+</CustomFieldTranslation>
